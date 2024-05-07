@@ -1,3 +1,13 @@
+# Getting Started
+
+With latest Node LTS installed, run the following commands:
+
+```sh
+yarn install && yarn start
+```
+
+Navigate to `http://localhost:3000/`.
+
 # Code and Design Decisions
 
 ## Added Libraries:
