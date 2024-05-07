@@ -1,0 +1,7 @@
+.properties-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
+  row-gap: 35px;
+  column-gap: 5%;
+  padding: 35px 5%;
+}

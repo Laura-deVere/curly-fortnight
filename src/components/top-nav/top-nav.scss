@@ -1,0 +1,19 @@
+.top-nav {
+  background-color: #f4f4f4;
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1000;
+  padding: 0 5%;
+  h1 {
+    font-family: Open Sans;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+  }
+}
